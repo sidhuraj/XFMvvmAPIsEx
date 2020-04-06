@@ -1,0 +1,14 @@
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\bin\Debug\netstandard2.0\MvvmWithApiEx.deps.json
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\bin\Debug\netstandard2.0\MvvmWithApiEx.dll
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\obj\Debug\netstandard2.0\MvvmWithApiEx.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\obj\Debug\netstandard2.0\MvvmWithApiEx.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\obj\Debug\netstandard2.0\MvvmWithApiEx.AssemblyInfo.cs
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\bin\Debug\netstandard2.0\ref\MvvmWithApiEx.dll
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\bin\Debug\netstandard2.0\MvvmWithApiEx.pdb
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\obj\Debug\netstandard2.0\MvvmWithApiEx.dll
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\obj\Debug\netstandard2.0\ref\MvvmWithApiEx.dll
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\obj\Debug\netstandard2.0\MvvmWithApiEx.pdb
+C:\Users\santosh\source\repos\MvvmWithApiEx\MvvmWithApiEx\MvvmWithApiEx\obj\Debug\netstandard2.0\Views\ProductDetailsPage.xaml.g.cs

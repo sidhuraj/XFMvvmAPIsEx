@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "shBonD6AbYuQa3W8BNF8adUX8AkDhk2IU1R8udgHaQfM+UVNkJM9d+lTFWo4ltqOdVa3wtYZgAp8EJx9zahk8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santosh\\source\\repos\\MvvmWithApiEx\\MvvmWithApiEx\\MvvmWithApiEx.iOS\\MvvmWithApiEx.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santosh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\xamarin.essentials\\1.2.0\\xamarin.essentials.1.2.0.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\xamarin.forms\\4.2.0.709249\\xamarin.forms.4.2.0.709249.nupkg.sha512"
+  ],
+  "logs": []
+}
